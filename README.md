@@ -1,3 +1,26 @@
+## pointcloud_to_laserscan (kinetic) - 1.4.0-0
+
+The packages in the `pointcloud_to_laserscan` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic pointcloud_to_laserscan --edit` on `Tue, 14 Nov 2017 22:24:50 -0000`
+
+The `pointcloud_to_laserscan` package was released.
+
+Version of package(s) in repository `pointcloud_to_laserscan`:
+
+- upstream repository: https://github.com/ros-perception/pointcloud_to_laserscan.git
+- release repository: https://github.com/ros-gbp/pointcloud_to_laserscan-release.git
+- rosdistro version: `1.3.1-0`
+- old version: `1.3.1-0`
+- new version: `1.4.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pointcloud_to_laserscan (indigo) - 1.4.0-0
 
 The packages in the `pointcloud_to_laserscan` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo pointcloud_to_laserscan --edit` on `Tue, 14 Nov 2017 22:23:52 -0000`
